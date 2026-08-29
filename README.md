@@ -1,34 +1,19 @@
-# Hi, I'm Chetan Baviskar 👋
+### Executive – MIS Executive | LeadsLogic Media
 
-### Data Analytics Trainee @ Anudip Foundation | Computer Engineering Graduate'2026
+Working as an **MIS Executive at LeadsLogic Media**, supporting business operations through data management, reporting, analysis, and performance tracking.
 
-I'm passionate about turning raw data into meaningful insights that drive better decisions. Currently learning and building real-world projects using **Python, SQL, Excel, Power BI, and Data Visualization**.
+**Key responsibilities:**
 
-## 🚀 Currently Working On
-- Data Analytics Projects
-- SQL & Python
-- Power BI Dashboards
-- Exploratory Data Analysis (EDA)
-- Generative AI for Analytics
+* Prepare and maintain **daily, weekly, and monthly MIS reports** to support business and operational decision-making.
+* Collect, validate, clean, and organize data from multiple sources to ensure **accuracy and consistency**.
+* Develop and maintain **Excel-based dashboards, trackers, and automated reporting solutions**.
+* Analyze operational and performance data to identify **trends, gaps, and key performance indicators (KPIs)**.
+* Work with cross-functional teams to understand reporting requirements and deliver **timely, actionable insights**.
+* Streamline repetitive reporting activities through **Excel formulas, PivotTables, Power Query, and data automation techniques**.
+* Maintain data integrity and ensure reports are delivered within defined timelines.
+* Continuously improve reporting processes to increase **efficiency, accuracy, and visibility of business performance**.
 
-## 🛠️ Tech Stack
-**Languages:** Python, SQL  
-**Tools:** Excel, Power BI, Git, GitHub, PyCharm, VS Code, Jupyter Notebook  
-**Skills:** Data Cleaning, Data Visualization, Statistics, EDA
+**Core Skills:**
+MIS Reporting | Data Analysis | Advanced Excel | Dashboard Development | KPI Tracking | Data Cleaning | Power Query | Business Reporting | Performance Analysis | Process Improvement
 
-## 💼 Experience
-- **Data Analytics Trainee** — Anudip Foundation
-- **Ex-Intern** — YBI Foundation
-- **Ex-Intern** — Cognifyz Technologies
-
-## 🤝 Open To
-📌 Data Analyst Internships & Entry-Level Opportunities
-
-I believe that **data tells a story**, and my goal is to present that story in a way that both technical and non-technical stakeholders can understand and use for decision-making.
-
-## 📫 Connect With Me
-📧 **Email:** chetan22kar03@gmail.com  
-📱 **Phone:** +91 9322437039
-📍 **Pune, Maharashtra, India**
-
-> *"Turning data into decisions, one insight at a time."* 📊
+Currently building deeper expertise in **Business Analytics, SQL, Power BI, and structured problem-solving** with the long-term goal of transitioning into a **Business/Strategy Analyst role**.
