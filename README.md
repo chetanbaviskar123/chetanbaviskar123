@@ -42,7 +42,7 @@ Analyzed 9,200+ hospital emergency room records to explore patient flow, waiting
 - Explore referral trends and patient demographics.
 - Present findings through interactive dashboards to support data-informed decisions.
 
-🔗 [View My GitHub Repositories](https://github.com/chetanbaviskar)
+🔗 [View My GitHub Repositories](https://github.com/chetanbaviskar123?tab=repositories)
 
 ### 📈 Sales Dashboard Analysis
 
@@ -56,7 +56,7 @@ Developed a sales dashboard to organize business data and present performance me
 - Identify trends using visual analysis.
 - Improve business performance visibility through reporting.
 
-🔗 [View My GitHub Repositories](https://github.com/chetanbaviskar)
+🔗 [View My GitHub Repositories](https://github.com/chetanbaviskar123?tab=repositories)
 
 *Replace the general GitHub links with the direct links to your individual project repositories.*
 
@@ -86,7 +86,7 @@ I'm building a portfolio that demonstrates not only what the data says, but also
 
 I'm open to connecting with Business Analysts, Data Analysts, recruiters, and professionals passionate about business transformation and data-driven decision-making.
 
-- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/)
-- 🐙 [Explore my GitHub](https://github.com/chetanbaviskar)
+- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/chetan-baviskar-124584242/?isSelfProfile=true)
+- 🐙 [Explore my GitHub](https://github.com/chetanbaviskar123)
 
 **Learn continuously. Analyze critically. Solve meaningful problems.**
